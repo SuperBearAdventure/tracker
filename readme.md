@@ -2,6 +2,15 @@
 
 Issue tracker for bugs found in *Super Bear Adventure*
 
+> **Warning**
+> This issue tracker has been archived. With the introduction of *Discord* forum channels, it has been moved back to the official *Super Bear Adventure Discord* server to ease reporting bugs and moderating reports. From now on, please report your game and translation issues there in the dedicated channel. The invite link is available in the pause menu on *Android* and *iOS* versions, and can also be found on the [official website](https://superbearadventure.com/).
+
+> **Note**
+> Bug reports (and feature requests) for *Shicka*, the *Discord* bot, can still be made in the dedicated [repository](https://github.com/SuperBearAdventure/shicka) on *GitHub*. As the code of the bot is open source, contributions are also welcome!
+
+<details>
+<summary>Archived guidelines</summary>
+
 ## Description
 
 This is the place where known issues for public beta versions of *Super Bear Adventure* are tracked by the developer. They used to be tracked on [a board](https://trello.com/b/yTojOuqv/super-bear-adventure-bugs) on *Trello* but are progressively moved here.
@@ -53,3 +62,5 @@ They are triaged as follow:
 - "Fixed bugs" are bugs that have been actively fixed in a previous or upcoming version of the game
 
 Additionnal labels may be added for a better categorization.
+
+</details>
